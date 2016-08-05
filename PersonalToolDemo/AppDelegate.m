@@ -4,7 +4,7 @@
 //
 //  Created by bill on 16/7/28.
 //  Copyright © 2016年 bill. All rights reserved.
-//
+//  MyGitHub
 
 #import "AppDelegate.h"
 
