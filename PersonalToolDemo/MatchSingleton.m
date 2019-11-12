@@ -1,4 +1,3 @@
-
 #import "MatchSingleton.h"
 
 @implementation MatchSingleton
